@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">score</string>
+    <string name="save_appointment_menu">save </string>
+    <string name="delete_allAppointment_menu">Delete All Appointment</string>
+    <string name="delete_this_Appointment_menu">Delete this Appointment</string>
+    <string name="reserve_appointment">new appointment</string>
+    <string name="paid_checkbox">paid</string>
+    <string name="day_text_view">day</string>
+    <string name="fixed_appointment">fixed</string>
+    <string name="name_edit_text">name</string>
+    <string name="set_date_text">set date</string>
+    <string name="set_time_text">set time</string>
+
+    <!-- Label for dropdown menu option if the appointment's duration is not set [CHAR LIMIT=20] -->
+    <string name="duration_notSet">duration</string>
+
+    <!-- Label for dropdown menu option if the appointment is one hour [CHAR LIMIT=20] -->
+    <string name="one_1">1</string>
+
+    <!-- Label for dropdown menu option if the appointment is one half past hour [CHAR LIMIT=20] -->
+    <string name="half_past_1">1.5</string>
+
+    <!-- Label for dropdown menu option if the appointment is 2 hour [CHAR LIMIT=20] -->
+    <string name="two_hour">2</string>
+
+    <!-- Label for dropdown menu option if the appointment is one half past two [CHAR LIMIT=20] -->
+    <string name="half_past_2">2.5</string>
+
+    <!-- Label for dropdown menu option if the appointment is 3 hour [CHAR LIMIT=20] -->
+    <string name="three_hour">3</string>
+
+    <string name="editor_insert_appointment_failed">failed to insert appointment</string>
+
+    <string name="editor_insert_appointment_successful">appointment inserted successfully</string>
+
+    <string name="editor_update_appointment_failed">appointment update failed</string>
+
+    <string name="editor_update_appointment_successful">appointment updated successfully</string>
+
+    <string name="empty_appointment">All appointment is free</string>
+
+    <string name="edit_appointment">Edit Appointment</string>
+
+    <string name="add_appointment">Add an Appointment</string>
+
+    <string name="editor_insert_pet_failed">Error with saving pet</string>
+
+
+    <!-- Toast message in editor when current appointment was successfully updated [CHAR LIMIT=NONE] -->
+    <string name="editor_update_pet_successful">Pet updated</string>
+
+    <!-- Toast message in editor when current appointment has failed to be updated [CHAR LIMIT=NONE] -->
+    <string name="editor_update_pet_failed">Error with updating pet</string>
+
+    <string name="unsaved_changes_dialog_msg">Are you sure you want to discard changes</string>
+
+    <string name="discard">Discard</string>
+
+    <string name="keep_editing">Keep Editing</string>
+
+    <!-- Toast message in editor when current pet was successfully deleted [CHAR LIMIT=NONE] -->
+    <string name="editor_delete_pet_successful">Pet deleted</string>
+
+    <!-- Toast message in editor when current pet has failed to be deleted [CHAR LIMIT=NONE] -->
+    <string name="editor_delete_pet_failed">Error with deleting pet</string>
+
+    <!-- Dialog message to ask the user to confirm deleting the current pet [CHAR LIMIT=NONE] -->
+    <string name="delete_dialog_msg">Delete this pet?</string>
+
+    <!-- Dialog button text for the option to confirm deleting the current pet [CHAR LIMIT=20] -->
+    <string name="delete">Delete</string>
+
+    <!-- Dialog button text for the option to cancel deletion of the current pet [CHAR LIMIT=20] -->
+    <string name="cancel">Cancel</string>
+
+</resources>

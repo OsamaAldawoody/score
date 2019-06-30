@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="margin16">16dp</dimen>
+    <dimen name="text_size">25sp</dimen>
+    <dimen name="margin25">25dp</dimen>
+    <dimen name="check_box">25dp</dimen>
+
+</resources>
